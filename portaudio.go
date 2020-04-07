@@ -11,6 +11,7 @@ The StreamParameters struct combines parameters for both the input and the outpu
 */
 package portaudio
 
+
 /*
 #cgo LDFLAGS: -l:portaudio
 #cgo pkg-config: portaudio-2.0
