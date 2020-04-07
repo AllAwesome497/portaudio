@@ -13,6 +13,7 @@ package portaudio
 
 /*
 #cgo LDFLAGS: -l:portaudio
+#cgo pkg-config: portaudio
 #include <portaudio.h>
 extern PaStreamCallback* paStreamCallback;
 */
